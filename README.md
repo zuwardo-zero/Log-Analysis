@@ -4,7 +4,7 @@ A hands-on digital forensics and incident response lab investigating a brute for
 
 ## 📋 Project Overview
 
-This project demonstrates practical threat detection skills by analyzing Windows Security logs to identify and investigate a brute force attack targeting an administrator account. The investigation covers attack identification, timeline reconstruction, compromise confirmation, and security recommendations.
+This project demonstrates practical log skills by analyzing Windows Security logs to identify and investigate a brute force attack targeting an administrator account. The investigation covers attack identification, timeline reconstruction, compromise confirmation, and security recommendations.
 
 ## 🚀 Skills Demonstrated
 
