@@ -1,6 +1,6 @@
 # 🔍 Windows RDP Brute Force Attack Analysis
 
-A hands-on digital forensics and incident response lab investigating a brute force attack against a Windows RDP service.
+Created a hands-on digital forensics and incident response report from a lab investigating a brute force attack against a Windows RDP service.
 
 ## 📋 Project Overview
 
