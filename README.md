@@ -50,5 +50,3 @@ This project demonstrates practical log skills by analyzing Windows Security log
 ### **Key Event IDs**
 - **Event 4625**: Failed logon attempts
 - **Event 4624**: Successful logon
-
-## 📁 Project Structure
